@@ -43,5 +43,7 @@ Project Files
 Skills Demonstrated
 Data cleaning, data validation, Excel formulas, duplicate checking, PivotTable analysis, and data visualisation.
 
-## Project Status
+Project Status
 Initial analysis completed. Further validation and analysis can be added as the project develops.
+
+![Total Revenue by Country](./revenue-by-country.png)
